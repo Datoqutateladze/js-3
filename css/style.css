@@ -1,0 +1,26 @@
+.wraper-flex{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: black;
+    flex-wrap: wrap;
+}
+.logo{
+    max-width:100px;
+    width:100%;
+}
+.nav-ul{
+	display: flex;
+}
+.nav-li{
+	margin-right: 70px;
+	font-size: 16px;
+}
+.nav-a{
+color:white;
+}
+.burger-bar { 
+    color:#E41C26;
+    display: none;
+    margin-right:15px;
+}
